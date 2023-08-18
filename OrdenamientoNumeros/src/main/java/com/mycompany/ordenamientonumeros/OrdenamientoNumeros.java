@@ -10,6 +10,15 @@ public class OrdenamientoNumeros {
         Scanner scanner = new Scanner(System.in);
         
         int[] numeros = new int[5];
+        
+        System.out.println("==========================================");
+        System.out.println("======== Algoritmo De Ordenamiento =======");
+        System.out.println("==========================================");
+        for (int i = 0; i < 5; i++){
+            System.out.println("Ingrese el numero" + (i+1) + "; ");
+            numeros[i] = scanner.nextInt();
+        }
+        
     }
     {
         
