@@ -7,6 +7,8 @@ import java.util.Arrays;
 
 public class OrdenamientoNumeros {
     public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+    }
     {
         
     }
