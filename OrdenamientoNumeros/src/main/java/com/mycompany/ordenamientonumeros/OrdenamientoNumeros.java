@@ -19,6 +19,8 @@ public class OrdenamientoNumeros {
             numeros[i] = scanner.nextInt();
         }
         
+        Arrays.sort(numeros);
+        
     }
     {
         
